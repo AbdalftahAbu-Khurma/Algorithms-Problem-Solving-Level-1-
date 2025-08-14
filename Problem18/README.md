@@ -1,0 +1,3 @@
+** Question : **
+
+Write a program to calculate the area of a circle given its radius, then print the result.
